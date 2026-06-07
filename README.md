@@ -70,3 +70,7 @@ graph TD
 | **Xcode 12.5 (Swift 5.0)** | 애플 생태계 표준 IDE 및 Swift 객체 지향형 개발 랭귀지. |
 | **Apple iOS 14.5 Simulator** | 구형 WebKit 엔진 및 프레임 레이아웃 테스트를 위한 가상 시뮬레이션 환경. |
 | **Git & GitHub** | 코드 형상 관리 및 마크다운 문서 영구 보관소. |
+
+### 2.7 발표 영상
+[![LiveMapTour 데모 영상](https://img.youtube.com/vi/rw0CGZjmq_g/hqdefault.jpg)](https://www.youtube.com/watch?v=rw0CGZjmq_g)
+
